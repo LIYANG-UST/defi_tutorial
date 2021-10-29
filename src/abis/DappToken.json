@@ -8846,7 +8846,7 @@
         545
       ],
       "IDAppToken": [
-        1422
+        1431
       ],
       "IERC20": [
         623
@@ -8889,7 +8889,7 @@
         "nameLocation": "-1:-1:-1",
         "nodeType": "ImportDirective",
         "scope": 1017,
-        "sourceUnit": 1423,
+        "sourceUnit": 1432,
         "src": "113:37:5",
         "symbolAliases": [],
         "unitAlias": ""
@@ -8914,7 +8914,7 @@
               "id": 851,
               "name": "IDAppToken",
               "nodeType": "IdentifierPath",
-              "referencedDeclaration": 1422,
+              "referencedDeclaration": 1431,
               "src": "348:10:5"
             },
             "id": 852,
@@ -8934,7 +8934,7 @@
         "id": 1016,
         "linearizedBaseContracts": [
           1016,
-          1422,
+          1431,
           545,
           648,
           623,
@@ -9567,7 +9567,7 @@
           },
           {
             "baseFunctions": [
-              1399
+              1408
             ],
             "body": {
               "id": 930,
@@ -9684,7 +9684,7 @@
                       "name": "MinterChanged",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1381,
+                      "referencedDeclaration": 1390,
                       "src": "2496:13:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
@@ -9872,7 +9872,7 @@
           },
           {
             "baseFunctions": [
-              1407
+              1416
             ],
             "body": {
               "id": 957,
@@ -9979,7 +9979,7 @@
                       "name": "OwnerChanged",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1387,
+                      "referencedDeclaration": 1396,
                       "src": "2967:12:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
@@ -10167,7 +10167,7 @@
           },
           {
             "baseFunctions": [
-              1413
+              1422
             ],
             "body": {
               "id": 981,
@@ -10306,7 +10306,7 @@
                       "name": "OwnershipReleased",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1391,
+                      "referencedDeclaration": 1400,
                       "src": "3297:17:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$returns$__$",
@@ -10438,7 +10438,7 @@
           },
           {
             "baseFunctions": [
-              1421
+              1430
             ],
             "body": {
               "id": 1004,
@@ -10856,7 +10856,7 @@
         545
       ],
       "IDAppToken": [
-        1422
+        1431
       ],
       "IERC20": [
         623
@@ -10899,7 +10899,7 @@
         "nameLocation": "-1:-1:-1",
         "nodeType": "ImportDirective",
         "scope": 1017,
-        "sourceUnit": 1423,
+        "sourceUnit": 1432,
         "src": "113:37:5",
         "symbolAliases": [],
         "unitAlias": ""
@@ -10924,7 +10924,7 @@
               "id": 851,
               "name": "IDAppToken",
               "nodeType": "IdentifierPath",
-              "referencedDeclaration": 1422,
+              "referencedDeclaration": 1431,
               "src": "348:10:5"
             },
             "id": 852,
@@ -10944,7 +10944,7 @@
         "id": 1016,
         "linearizedBaseContracts": [
           1016,
-          1422,
+          1431,
           545,
           648,
           623,
@@ -11577,7 +11577,7 @@
           },
           {
             "baseFunctions": [
-              1399
+              1408
             ],
             "body": {
               "id": 930,
@@ -11694,7 +11694,7 @@
                       "name": "MinterChanged",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1381,
+                      "referencedDeclaration": 1390,
                       "src": "2496:13:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
@@ -11882,7 +11882,7 @@
           },
           {
             "baseFunctions": [
-              1407
+              1416
             ],
             "body": {
               "id": 957,
@@ -11989,7 +11989,7 @@
                       "name": "OwnerChanged",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1387,
+                      "referencedDeclaration": 1396,
                       "src": "2967:12:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
@@ -12177,7 +12177,7 @@
           },
           {
             "baseFunctions": [
-              1413
+              1422
             ],
             "body": {
               "id": 981,
@@ -12316,7 +12316,7 @@
                       "name": "OwnershipReleased",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1391,
+                      "referencedDeclaration": 1400,
                       "src": "3297:17:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$returns$__$",
@@ -12448,7 +12448,7 @@
           },
           {
             "baseFunctions": [
-              1421
+              1430
             ],
             "body": {
               "id": 1004,
@@ -12963,12 +12963,12 @@
         }
       },
       "links": {},
-      "address": "0x61b4760a9090ECdeC6C2DE8B1db7201a6c0afcFb",
-      "transactionHash": "0x126930e0a70a52f6342a4d9619848eb9f432f004a83ffcbe23649dd3daf9d777"
+      "address": "0xd5D67B6C30fE39bdFa75A16e2B702475190Ba856",
+      "transactionHash": "0x3258c6b66ca88eef5cbe0d4a5172345f965cfad51e919042d711f728419f1a2b"
     }
   },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-10-28T18:43:33.426Z",
+  "updatedAt": "2021-10-29T18:56:01.615Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
