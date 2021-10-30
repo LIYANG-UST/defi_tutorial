@@ -35,7 +35,7 @@ contract DAppToken is ERC20, IDAppToken {
         _;
     }
 
-    /// @notice Can not set some addresses to zero.
+    /// @notice Ensure we have a valid address parameter.
     modifier isValidAddress(address _address) {
         require(_address != address(0), "Can not use zero address!");
         _;
@@ -100,7 +100,7 @@ contract DAppToken is ERC20, IDAppToken {
     function mint(address _account, uint256 _amount) public override {
         require(msg.sender == minter, "Error! Msg.sender must be the minter");
 
-        _mint(_account, _amount); // ERC20 method with an event
+        _mint(_account, _amount); // ERC20 mint method with an event
     }
 
     // ---------------------------------------------------------------------------------------- //
